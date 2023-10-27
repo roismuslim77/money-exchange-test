@@ -12,6 +12,7 @@ This application for scrap content from [Kurs Dollar Web](https://kursdollar.org
 - for run scheduler try: php artisan scheduler:run
 - for scrap manually with api: localhost:8000/api/scrap
 - for clear file result access in: localhost:8000
+- result scraping in folder /storage/rates
 
 
 ## About Laravel
