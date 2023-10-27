@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Documentation
+This application for scrap content from [Kurs Dollar Web](https://kursdollar.org/)
+- for run scheduler try: php artisan scheduler:run
+- for scrap manually with api: localhost:8000/api/scrap
+- for clear file result access in: localhost:8000
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
